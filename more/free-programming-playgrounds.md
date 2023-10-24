@@ -161,7 +161,7 @@
 
 ### Gremlin
 
-* [Gremlify](https://gremlify.com/)
+* [Gremlify](https://gremlify.com)
 
 
 ### Haskell
